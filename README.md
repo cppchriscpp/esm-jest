@@ -14,3 +14,8 @@ esm-jest.js currently tries to infer from the test and source files whether they
 ## Inspiration
 
 The inspiration for all this is from the solution listed here: https://stackoverflow.com/questions/46433678/specify-code-to-run-before-any-jest-setup-happens
+
+## Modification 
+folk from [here](https://github.com/kenotron/esm-jest)
+
+* replaced `esm` with `babel-jest` for jest transform
